@@ -1,2 +1,3 @@
 # hello-world2
-Just for study again
+hi，humans！
+I am a new learner, i want learn more things ,thanks for teaching.
